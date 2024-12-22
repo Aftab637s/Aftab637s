@@ -11,9 +11,7 @@
 
 <a href="https://t.me/ll_l_sukoon_ll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="[https://instagram.com/aftab_khan_official_acount"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Aftab637s/Aftab637s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
